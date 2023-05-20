@@ -1,2 +1,0 @@
-# StylingProfile
-Estilo do Profile
